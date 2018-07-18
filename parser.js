@@ -14,7 +14,7 @@ for (var i = 0, max = q_value.length; i < max; i++) {
 // Fetch JSON data
 var json = [];
 var x = 0;
-var resturl = "https://www.roguard.net/english-patch-status/";
+var resturl = "https://cors.io/?https://www.roguard.net/english-patch-status/";
 $.getJSON(resturl, function(data) {
     console.log(data);
     for (x in data) {
