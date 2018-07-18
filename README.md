@@ -1,1 +1,1 @@
-# EN-Patch-Status-Parser
+ROGuard English Patch Status JSON parser for Discord Echo Bot
